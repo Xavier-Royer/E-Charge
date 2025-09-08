@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/plate2.ogg-f905004de4d0b76a0cbc950aac6cb2b6.oggstr"
+
+[deps]
+
+source_file="res://Sounds/plate2.ogg"
+dest_files=[ "res://.import/plate2.ogg-f905004de4d0b76a0cbc950aac6cb2b6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

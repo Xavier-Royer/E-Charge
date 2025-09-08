@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/speedboost.ogg-816cc0e730cfa8c80e4d8f6fb42af14c.oggstr"
+
+[deps]
+
+source_file="res://Sounds/speedboost.ogg"
+dest_files=[ "res://.import/speedboost.ogg-816cc0e730cfa8c80e4d8f6fb42af14c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
